@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+}
+
+#cash-given-section {
+    display: none;
+}
+
+#notes-section {
+    display: none;
+}
