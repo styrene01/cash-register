@@ -32,7 +32,7 @@ changeBtn.addEventListener("click", function validateInput() {
             // notesSection.style.display = "none";
         }
     } else {
-        showMessage("Bill amount should be greater thatn 0");
+        showMessage("Bill amount should be greater than 0");
     }
 });
 
