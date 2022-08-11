@@ -9,4 +9,3 @@ A web app which calculates the change and the number of notes to return when ent
 -   HTML5
 -   CSS3
 -   Javascript
--   API
